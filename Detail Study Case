@@ -1,0 +1,7 @@
+# DATA INFORMATION
+Data yang dilakukan untuk study case kali ini adalah data Facebook Live sellers in Thailand.
+File data dapat di unduh dengan nama file "Clustering_Kelompok_2.csv"
+
+# METODE
+Metode yang digunakan pada study case adalah metode CLUSTERING dengan model K-Means Clustering.
+File code dapat di unduh dengan nama "Clustering_Klompok_2.ipynb" dengan berformat google colab menggunakan pemrograman python.
